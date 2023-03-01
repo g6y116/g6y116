@@ -9,5 +9,3 @@
 ***
 ### 🎈 PlayStore 
  - [1365 봉사활동](https://play.google.com/store/apps/details?id=g6y116.volunteer)
-***
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=g6y116)](https://solved.ac/g6y116)
