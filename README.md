@@ -2,6 +2,8 @@
 
 🌱 아름답고 유연한 코드를 추구하는 안드로이드 개발자 장성준입니다.
 
+<img src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white"/> <img src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white"/> <img src ="https://img.shields.io/badge/Github-%23121011.svg?style=flat&logo=Github&logoColor=white"/> <a href="https://velog.io/@g6y116"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@g6y116"/></a>
+
 ***
 
 😎 Introduce
