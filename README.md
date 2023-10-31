@@ -1,17 +1,16 @@
 <div align="center">
 
- ✨ 안녕하세요! 
+ 안녕하세요. 
  
- 🌱 아름답고 유연한 코드를 추구하는 리액트 개발자 장성준입니다.
+ 깔끔하고 유연한 코드를 추구하는 스프링 개발자 장성준입니다.
 
  <img src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=Kotlin&logoColor=white"/>
  <img src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=flat&logo=Android&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+ <img src="https://img.shields.io/badge/Jpa-6DB33F?style=flat&logo=Jpa&logoColor=white" />
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
 
@@ -27,6 +26,6 @@
 
 ***
 
-🎈 PlayStore 
+🎈 Personal Service  
 
  - [1365 봉사활동](https://play.google.com/store/apps/details?id=g6y116.volunteer)
