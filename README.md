@@ -28,9 +28,8 @@
 
 ⚒️ Skill
 - Java, Kotlin, html, css, javascript
-- SpringBoot, Spring mvc, Thymeleaf, JPA, Spring Data JPA, QueryDsl, Android
+- SpringBoot, Spring mvc, Thymeleaf, JPA, Spring Data JPA, QueryDsl, Android, Mysql
 - IntelliJ, AndroidStudio, Git, Jira, Slack
-- Mysql, AWS EC2, cafe24
 
 ***
 
@@ -45,5 +44,5 @@
 ***
 
 🎈 service 
-
+ - [노벨링](http://54.180.42.63:8080)
  - [1365 봉사활동](https://play.google.com/store/apps/details?id=g6y116.volunteer)
