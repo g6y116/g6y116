@@ -1,9 +1,11 @@
 <div align="center">
 
- 안녕하세요! 
+ 😎 안녕하세요! 
  
  깔끔하고 유연한 코드를 추구하는 스프링 개발자 장성준입니다.
+ 
  평소 웹 개발에 관심이 있었고 스프링 프레임워크의 매력에 빠지게 되어 안드로이드 진영에서 포지션을 변경하게 되었습니다.
+ 
  김영한님의 '인프런 강의'를 통해 스프링 프레임워크의 개념을 확립하였고 현재는 '토비의스프링' 을 기반으로 꾸준히 공부하고 있습니다.
 
  <br/>
@@ -29,6 +31,8 @@
 - SpringBoot, Spring mvc, Thymeleaf, JPA, Spring Data JPA, QueryDsl, Android
 - IntelliJ, AndroidStudio, Git, Jira, Slack
 - Mysql, AWS EC2, cafe24
+
+***
 
 📝 Career
 
