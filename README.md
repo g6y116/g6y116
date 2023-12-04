@@ -1,15 +1,8 @@
 <div align="center">
 
- 😎 안녕하세요! 
+ 😎 안녕하세요!
  
- 깔끔하고 유연한 코드를 추구하는 스프링 개발자 장성준입니다.
-
- <br/>
- 
- [Spring Personal Project Repository](https://github.com/g6y116/Noveling)
- 
- [Spring Personal Project Link](http://13.124.98.233)
- 
+ 클린하고 유연한 코드를 추구하는 스프링 개발자 장성준입니다.
 
  <br/>
 
@@ -50,8 +43,8 @@
 
 ***
 
-🎈 service 
- - [Noveling](http://13.124.98.233)
+✨ service 
+ - [모두의 소설 공간 - Noveling](http://13.124.98.233)
  - [1365 봉사활동](https://play.google.com/store/apps/details?id=g6y116.volunteer)
 
 ***
