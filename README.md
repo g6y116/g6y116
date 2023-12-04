@@ -25,6 +25,10 @@
  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
+ <br/><br/>
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=g6y116)](https://solved.ac/g6y116/)
+
 </div>
 
 ***
