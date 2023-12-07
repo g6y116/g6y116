@@ -36,9 +36,9 @@
 📝 Career
 
 - 구름x카카오 K-디지털 트레이닝
-- InnoPost(Android) - 동원몰 / 더반찬
-- Swit Korea(Android) - Swit
-- 삼성청년소프트웨어아카데미(SSAFY) 6기 Mobile Track
+- InnoPost(Android)
+- Swit Korea(Android)
+- 삼성청년소프트웨어아카데미(SSAFY) 6기
 - 금오공과대학교 컴퓨터공학과
 
 ***
