@@ -28,7 +28,9 @@
 
 ⚒️ Skill
 - Kotlin, Java
-- SpringBoot, Thymeleaf, JPA, Spring Data JPA, QueryDsl, SpringSecurity, Bootstrap, Android, Mysql
+- SpringBoot, Thymeleaf, JPA, Spring Data JPA, QueryDsl, SpringSecurity
+- AWS EC2, AWS RDS, Docker, K8S
+- Android, Mysql
 - IntelliJ, AndroidStudio, Git, Jira, Slack, Postman
 
 ***
