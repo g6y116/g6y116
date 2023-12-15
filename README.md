@@ -29,7 +29,7 @@
 ⚒️ Skill
 - Kotlin, Java
 - SpringBoot, Thymeleaf, JPA, Spring Data JPA, QueryDsl, SpringSecurity
-- AWS EC2, AWS RDS, Docker, K8S
+- AWS EC2, AWS RDS, Docker
 - Android, Mysql
 - IntelliJ, AndroidStudio, Git, Jira, Slack, Postman
 
@@ -46,15 +46,7 @@
 ***
 
 ✨ service 
- - [모두의 소설 공간 - Noveling](http://13.124.98.233)
+ - [모두의 소설 공간 - Noveling](http://ec2-13-209-207-54.ap-northeast-2.compute.amazonaws.com)
  - [1365 봉사활동](https://play.google.com/store/apps/details?id=g6y116.volunteer)
 
 ***
-
-📖 Book
-- 자바의 정석
-- Kotlin In Action
-- JPA프로그래밍
-- 토비의 스프링
-- 클린 코드
-- 클린 아키텍처
