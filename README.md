@@ -16,7 +16,7 @@
 - Docker, Github Action, Ubuntu
 - MySQL, H2
 - Nginx, React, Android
-- IntelliJ, Visual Studio Code, Sourcetree, Postman, Docker Desctop
+- IntelliJ, Visual Studio Code, Sourcetree, Postman, Docker Desktop
 - Jira, Slack, PuTTY, FileZilla, AndroidStudio
 
 ***
