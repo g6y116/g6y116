@@ -31,4 +31,9 @@
 
 ***
 
+- 정보처리기사
+- SW 역량테스트 A등급(삼성전자)
+
+***
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=g6y116)](https://solved.ac/g6y116/)
