@@ -54,7 +54,7 @@
 
 </br>
 
-## 📝 Certificate
+## 📝 Certification
 
 - 정보처리기사
 - SW 역량테스트 A등급(삼성전자)
