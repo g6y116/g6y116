@@ -61,20 +61,6 @@
 
 </br>
 
-## 📖 Book
-
-- 혼자 공부하는 컴퓨터구조 운영체제
-- Kotlin In Action
-- 자바의 정석
-- 코어 자바스크립트
-- JPA 프로그래밍
-- Clean Code
-- Clean Architecture
-- 이것이 MySQL이다.
-- 이것이 우분투 리눅스다.
-
-</br>
-
 <div style="display: flex">
   <img style="object-fit:cover; margin-right:20px"  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g6y116&layout=compact&theme=github_dark&hide=CSS,HTML,EJS" />
   <img style="object-fit:cover"  height="180px" src="https://github-readme-stats.vercel.app/api?username=g6y116&show_icons=true&theme=github_dark" />
