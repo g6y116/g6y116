@@ -1,7 +1,8 @@
 # 장성준
 
-> Spring Backend Engineer
+> Backend Engineer
 
+<!--
 </br>
 
 - 개발자로서의 자세와 챔임감을 중요시합니다.
@@ -46,6 +47,7 @@
 
 ## 📝 Experience
 
+- 비젠트로(Backend)
 - 구름x카카오 K-디지털 트레이닝(React + Spring)
 - InnoPost(Android)
 - Swit Korea(Android)
@@ -65,3 +67,4 @@
   <img style="object-fit:cover; margin-right:20px"  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g6y116&layout=compact&theme=github_dark&hide=CSS,HTML,EJS" />
   <img style="object-fit:cover"  height="180px" src="https://github-readme-stats.vercel.app/api?username=g6y116&show_icons=true&theme=github_dark" />
 </div>
+-->
