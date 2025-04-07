@@ -1,57 +1,82 @@
 <div align="left">
 
-### Jang Seongjun
+### 장성준
 
 > Backend Engineer
 
-#### **Language**
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</br>
+
+안녕하세요.
+
+본질적인 문제를 해결하는 개발자 장성준입니다.
+
+</br>
+</br>
+
+## 기술 스택
 
 #### **Backend**
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/QueryDSL-7F52FF?style=flat-square&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/MyBatis-007396?style=flat-square&logo=mybatis&logoColor=white" />
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=OpenJDK&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Gradle-black?style=flat-square&logo=gradle&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Data_JPA-black?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/QueryDSL-black?style=flat-square&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-black?style=flat-square&logo=spring-security&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSocket-black?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-black?style=flat-square&logo=swagger&logoColor=white" />
 
 #### **Frontend**
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-black?style=flat-square&logo=zotero&logoColor=white" />
+<img src="https://img.shields.io/badge/Axios-black?style=flat-square&logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/TUI_Grid-black?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/i18next-black?style=flat-square&logo=google-translate&logoColor=white" />
 
-#### **Cloud & DevOps**
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+#### **Windows Desktop App**
+<img src="https://img.shields.io/badge/Electron-black?style=flat-square&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=white" />
+
+#### **Android(Native)**
+<img src="https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Coroutine-black?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Flow-black?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Retrofit-black?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Hilt-black?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/AAC-black?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Room-black?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/DataStore-black?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Paging-black?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Navigation-black?style=flat-square&logo=android&logoColor=white" />
+
+#### **Infra**
+<img src="https://img.shields.io/badge/Ubuntu-black?style=flat-square&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_EC2-black?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_RDS-black?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3-black?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_CloudWatch-black?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=github-actions&logoColor=white" />
 
 #### **IDE**
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-black?style=flat-square&logo=android-studio&logoColor=white" />
 
-#### **API Testing Tool**
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-
-#### **Version Control Tool**
-<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white" />
-
-#### **DevOps Tool**
-<img src="https://img.shields.io/badge/PuTTY-509EE3?style=flat-square&logo=putty&logoColor=white" />
-<img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker_Desktop-2496ED?style=flat-square&logo=docker&logoColor=white" />
+#### **Dev Tool**
+<img src="https://img.shields.io/badge/DBeaver-black?style=flat-square&logo=&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Sourcetree-black?style=flat-square&logo=sourcetree&logoColor=white" />
+<img src="https://img.shields.io/badge/PuTTY-black?style=flat-square&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/FileZilla-black?style=flat-square&logo=filezilla&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker_Desktop-black?style=flat-square&logo=docker&logoColor=white" />
 
 #### **Collaboration Tool**
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-
-</br>
-</br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g6y116&show_icons=true&theme=radical&hide_border=true)
+<img src="https://img.shields.io/badge/Jira-black?style=flat-square&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluence-black?style=flat-square&logo=confluence&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-black?style=flat-square&logo=slack&logoColor=white" />
 
 </div>
