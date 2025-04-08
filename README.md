@@ -2,16 +2,9 @@
 
 ### 장성준
 
-> Backend Engineer
+> 본질적인 문제 해결을 지향하는 개발자 장성준입니다.
 
-</br>
-
-안녕하세요.
-
-본질적인 문제를 해결하는 개발자 장성준입니다.
-
-</br>
-</br>
+<br/><br/><br/>
 
 ## 기술 스택
 
@@ -79,26 +72,33 @@
 <img src="https://img.shields.io/badge/Confluence-black?style=flat-square&logo=confluence&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-black?style=flat-square&logo=slack&logoColor=white" />
 
-</br>
-</br>
+<br/><br/><br/>
 
 ## 경력 / 경험
 
-> [경력] 2024.07 ~ 2025.04
+> [경력] 2024.07 - 2025.04 (Backend / Frontend / Windows Desktop App / Infra)
 
-#### **Bioconnect (Backend / Frontend / Windows Desktop App / Infra)**
-- [SI] SCINCO 외주 개발
-  - Spring, Mybatis, JSP 기반 프로젝트 개발 (중반 부터 넘겨 받아 개발)
-- [SM] 진셀팜(한국피부과학연구원) 유지보수
-  - 기존 C# 기반 Windows Desktop App 버그 픽스 / 기능 추가 / 일괄 재 설치
-- [Solution] I LAB Trace 개발
+#### **Bioconnect**
+- SCINCO 외주 개발 (SI 프로젝트)
+  - Spring, Mybatis, JSP 기반 프로젝트 개발
+  - 중반부터 인계 받아 개발
+- 진셀팜 유지보수 (SM 프로젝트)
+  - 기존 C# 기반 Windows Desktop App 버그 픽스 / 기능 추가 / 일괄 재설치
+- I LAB Trace 신규 개발 (솔루션 / 미출시)
   - 기술 스택
-    - Backend: Spring Boot, Gradle JPA, JWT, WebSocket, PDFBox(PDF Text 추출), Apache POI(Excel 파일 생성), Swagger
+    - Backend: Spring Boot, Gradle JPA, JWT, WebSocket, PDFBox(PDF 텍스트 추출), Apache POI(Excel 파일 생성), Swagger
     - Frontend: React, Vite, Tailwind CSS, Zustand(전역 상태 관리), TUI Grid, i18next(다국어 처리), STOMP.js + SockJS
-    - Windows Desktop App: Electron, SQLite, Node-cron(스케줄러), cron-parser
+    - Windows Desktop App: Electron, SQLite, Node-cron(스케줄링), cron-parser
+    - Infra: AWS EC2, AWS RDS, AWS S3, AWS CloudWatch
   - 주요 기능
+    - 잠금 / 비밀번호 정책 설정 / 메뉴별 권한 제어
+    - 폴더 감시 / 스케줄링 / 데이터 추출 / 전송 / 재전송 / 수동 전송
+    - 다국어 / 테마 / 체크썸 / 트레이 / 파일 다운로드 / 엑셀 다운로드 / 데이터 복구
+    - 전송 파일 이력 / 실패 파일 이력 / 스케줄 실행 이력 / 추출 이력 / 사용 이력
 
-> [교육] 2023.08 ~ 2024.02
+<br/>
+
+> [교육] 2023.08 - 2024.02
 
 #### **Goorm X Kakao K-Digital Training**
 - 개인 프로젝트: Noveling(Spring Boot, Thymeleaf, Spring Security, JPA, GitHub Actions, Docker, AWS)
@@ -107,21 +107,25 @@
   - FE/BE 배포(Nginx, Docker, docker compose, GitHub Actions, AWS EC2, AWS RDS)
   - FE/BE 로그인(JWT, Naver, Kakao)
   - FE/BE 파일 업로드(AWS S3)
-  - BE Community 관련 API 기능 개발
+  - BE Community API 기능 개발
   - BE 로그 추적기(AOP), 예외, 응답, 로그 관련 기능 개발
 
-> [경력] 2023.04 ~ 2023.08
+<br/>
 
-#### **InnoPost (Android)**
+> [경력] 2023.04 - 2023.08 (Android)
+
+#### **InnoPost**
 - 누적 다운로드 수 10만 이상의 쇼핑몰 **동원몰/더반찬** 앱 1인 외주 개발
 - 6년 전 개발된 기존 소스를 Java에서 Kotlin으로 리팩토링 및 설정 최신화 (DI 적용 및 JetPack 기반 라이브러리로 대체)
 - 소셜 로그인(Naver, Kakao) / Push 알림 / SMS에 Dynamic Link 적용하여 전송하는 기능 개발
 - 웹 반응 속도의 한계 개선: Back Stack Tree 구조로 화면 설계 및 적용 / 주요 화면들은 브라우저 멀티 탭을 뛰어놓고 백그라운드에서 미리 그리도록 기능 개발
 - Top/Bottom 메뉴 바, 상품 상세 화면, 알림 함, 설정, 팝업 네이티브화
 
-> [경력] 2022.02 ~ 2022.06
+<br/>
 
-#### **Swit Korea (Android)**
+> [경력] 2022.02 - 2022.06 (Android)
+
+#### **Swit Korea**
 - 업무 협업 툴 **Swit**(Slack과 Jira의 기능이 결합된 서비스) 앱 개발
 - Dark Mode Project
   - 공통 컴포넌트 재설계 및 앱 전체 화면에 다크모드 UI 적용
@@ -135,7 +139,9 @@
 - Task Plus Project
   - 대규모로 개편되는 UI / View Logic 수정
 
-> [교육] 2021.07 ~ 2022.02
+<br/>
+
+> [교육] 2021.07 - 2022.02
 
 #### **삼성 청년 SW 아카데미(SSAFY) 6기**
 - Mobile Track 1기 교육 수료
@@ -143,14 +149,18 @@
 - 개인 프로젝트: 1365 봉사활동 앱 (최근 PlayStore 정책 변경으로 게시 취소 됨.)
 - 팀 프로젝트: 모여봐요 스터디룸
 
-> [외주] 2021.01 ~ 2021.06
+<br/>
+
+> [외주] 2021.01 - 2021.06
 
 #### **그림 공유 커뮤니티 플랫폼 1인 외주 개발**
 - 졸업 학기 겨울방학 인턴십 참여 이후 해당 기업에서 1인 외주 개발을 제안 받아 진행하였습니다.
 - 해당 기업의 판서 앱과 연동하여 Web / Android 플랫폼 개발 및 배포
 - Android, Vue.js, Express.js, Cafe24
 
-> [학사] 2015.03 ~ 2021.08
+<br/>
+
+> [학사] 2015.03 - 2021.08
 
 #### **금오공과대학교 컴퓨터공학과 학사 졸업**
 - 졸업 작품: 캐릭터가 읽어주는 동화 이야기(Python, Django, Tacotron2)
