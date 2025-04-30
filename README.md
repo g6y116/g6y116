@@ -2,7 +2,7 @@
 
 ### 장성준
 
-> Backend Engineer
+> Full Stack Developer
 
 <br/><br/><br/>
 
@@ -21,13 +21,12 @@
 
 #### **Frontend**
 <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Zustand-black?style=flat-square&logo=zotero&logoColor=white" />
 <img src="https://img.shields.io/badge/Axios-black?style=flat-square&logo=axios&logoColor=white" />
 <img src="https://img.shields.io/badge/TUI_Grid-black?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/i18next-black?style=flat-square&logo=google-translate&logoColor=white" />
 
 #### **Windows Desktop App**
 <img src="https://img.shields.io/badge/Electron-black?style=flat-square&logo=electron&logoColor=white" />
@@ -71,6 +70,8 @@
 <img src="https://img.shields.io/badge/Jira-black?style=flat-square&logo=jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Confluence-black?style=flat-square&logo=confluence&logoColor=white" />
 <img src="https://img.shields.io/badge/Slack-black?style=flat-square&logo=slack&logoColor=white" />
+
+<!--
 
 <br/><br/><br/>
 
@@ -173,3 +174,5 @@
   - ynthesize 모델(wavenet)을 학습하여 tacotron으로 부터 나온 spectrogram에서 부터 음성 파일을 만들었습니다.
 
 </div>
+
+-->
