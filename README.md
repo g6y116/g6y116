@@ -22,7 +22,6 @@
 #### **Frontend**
 <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Zustand-black?style=flat-square&logo=zotero&logoColor=white" />
 <img src="https://img.shields.io/badge/Axios-black?style=flat-square&logo=axios&logoColor=white" />
